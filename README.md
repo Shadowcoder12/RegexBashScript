@@ -12,6 +12,5 @@ Use Case: Renames Any File without the extra characters in the front or the back
 
 1. git clone https://github.com/lfonzi62/RegexBashScript.git
 2. cd script 
-3. Set excute on file as owner ``` chmod u+x updateFileName.command 
-```
+3. Set excute on file as owner: chmod u+x updateFileName.command 
 4. Double click file to run in finder
